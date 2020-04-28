@@ -1,15 +1,15 @@
-# SPAM SMS Unlimited
-![image](https://github.com/Xractz/SMS/blob/master/instigam.png)
-SPAM SMS menggunakan api web INDIHOME dengan menggunakan bahasa pemrograman python
+# hackér instigam 
+![image](https://github.com/spider-fb/Guess-instigam/blob/master/Instagram.png)
+hacké instigam menggunakan api web INDIHOME dengan menggunakan bahasa pemrograman python
 
 ## Cara Install Termux
 ```
 $pkg install git
 $pkg install python3
 $pip install requests
-$git clone https://github.com/Xractz/SMS
-$cd sms
-$python spam.py
+$git clone https://github.com/spider-fb/Guess-instigam
+$cd Guess-instigam
+$python3 mbi.py
 ```
 
 
@@ -18,9 +18,9 @@ $python spam.py
 $sudo apt-get install git
 $sudo apt-get install python3
 $pip install requests
-$git clone https://github.com/Xractz/SMS
-$cd sms
-$python spam.py
+$git clone https://github.com/spider-fb/Guess-instigam
+$cd Guess-instigam
+$python3 mbi.py
 ```
 
 Copyright © 2020, Xractz - IndoSec
