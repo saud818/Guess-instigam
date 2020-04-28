@@ -26,13 +26,25 @@ $python3 mbi.py
 
 Support the authors:
 
-### Paypal:
+### Facebook
+https://www.facebook.com/omar.haker.9212
+### instigam
+https://www.instagram.com/ahssine12/
+### Twitter
+https://mobile.twitter.com/Ahssine4
+### WhatsApp
+https://chat.whatsapp.com/BqPPFkVY3sm4WXzB8OIZNx
+### youtube
+https://www.youtube.com/channel/UCP0-8OzsHywqN461bVFjUbQ
+### Site
+https://tatawirdat.blogspot.com
 
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
+
+
 
 ### LiberaPay:
 
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<noscript><a href="https://liberapay.com/ahssine12/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 
 
